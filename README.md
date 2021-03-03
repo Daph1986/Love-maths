@@ -6,4 +6,4 @@ Walkthrough project for Code Insititute JavaScript Essentials module.
 
 ## Demo
 
-A link tot the live demo version:
+By clicking this [link](https://daph1986.github.io/Love-maths/) a live demo version will be visible.
