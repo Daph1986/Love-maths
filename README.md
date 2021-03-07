@@ -2,7 +2,7 @@
 
 **JavaScript Essentials assignment**
 
-Walkthrough project for Code Insititute JavaScript Essentials module.
+Walkthrough project for Code Institute JavaScript Essentials module.
 
 ## Demo
 
